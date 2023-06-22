@@ -3,6 +3,9 @@ This repository contain scripts developed by RHEA Group to exploit Earth Observa
 
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
+## Indicators:
+1. [Economic Indicators](economic_indicators)
+
 ## Get started
 - [Rapid Action for Citizen with Earth Observation (**RACE**) platform](https://race.esa.int) 
 - [EuroDataCube](https://eurodatacube.com/)
