@@ -28,6 +28,10 @@ Additional customizations of this implementation could provide:
 - Static or interactive time series plot. An example of a possible plot of such variation could be: 
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
+## Resources:
+- [Jupyter Notebook](code/E8_notebook.ipynb)
+- [helper functions](code/helpers.py)
+
 ## Requirements:
 - Processing resources: This algorithm is customized to run within the EDC EOX infrastructure using Jupyter-lab.
 - User credentials: requires an active account with any of the available subscription plans.
