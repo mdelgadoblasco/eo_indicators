@@ -8,6 +8,11 @@ The input parameters needed are:
 
 The implemented algorithm will retrieve, using the SentinelHub Statistical API, the average orthorectify and terrain-flattened gamma0 over the defined area (AOI) aggregated per day. Using gamma0 instead of the typical sigma0 allows us to aggregate the values from different orbits as it is geometry independent and corrected to remove its dependency on the incident angle.
 
+The steps that this algorith follows are:
+1. Time series retrieval of the averaged gamma0 terrain flattened over the AOI
+2. Outlier removal to remove and interpolate any possible outlier
+3. Result publication 
+
 More information about the **GAMMA0_TERRAIN** processing option available from Sentinelhub is available [here](https://docs.sentinel-hub.com/api/latest/data/sentinel-1-grd/#processing-options)
 
 An example of a possible plot of such variation could be: 
