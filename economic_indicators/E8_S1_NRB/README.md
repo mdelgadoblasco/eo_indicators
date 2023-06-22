@@ -1,6 +1,6 @@
 
 # Finished Goods Inventory indicator: 
-This indicator uses the time series of Sentinel-1 Normalized Radar Backscatter information averaged over the user-defined area of interest (AOI) to provide a time overview of the backscatter variations which will be linked to the direct occupancy of the monitored areas.
+This indicator uses the time series of Sentinel-1 Normalized Radar Backscatter information averaged over the user-defined area of interest (AOI) to provide a time overview of the backscatter variations which can be directly linked to the occupancy of the monitored areas.
 
 The input parameters needed are:
 - observation period from / to in YYYY-MM-DD format
