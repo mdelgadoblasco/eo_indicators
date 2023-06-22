@@ -14,6 +14,8 @@ The steps that this algorithm follows are:
 2. Outlier removal to remove and interpolate any possible outlier
 3. Result publication 
 
+The images below show the differences between showing a 
+
 More information about the **GAMMA0_TERRAIN** processing option available from Sentinelhub is available [here](https://docs.sentinel-hub.com/api/latest/data/sentinel-1-grd/#processing-options)
 
 
@@ -26,5 +28,5 @@ Additional customizations of this implementation could provide:
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Requirements:
-- Processing resources: This algorithm is customized to run within the EDC EOX infrastructure.
+- Processing resources: This algorithm is customized to run within the EDC EOX infrastructure using Jupyter-lab.
 - User credentials: requires an active account with any of the available subscription plans.
