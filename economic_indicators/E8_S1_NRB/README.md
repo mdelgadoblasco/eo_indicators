@@ -15,6 +15,8 @@ The steps that this algorithm follows are:
 3. Result publication 
 
 The images below show the differences between gamma0 backscatter (top) and gamma0 with radiometric terrain correction or **flattened** (bottom) both in decibel scale available in SentinelHub.
+<p><center> <img src="images/gamma0_comparison_sentinelhub.jpg" width="700"/> </p></center>
+
 More information about the **GAMMA0_TERRAIN** processing option available from Sentinelhub is available [here](https://docs.sentinel-hub.com/api/latest/data/sentinel-1-grd/#processing-options) and [here](https://collections.eurodatacube.com/card4l/)
 
 
