@@ -6,6 +6,8 @@ This repository contain scripts developed by RHEA Group to exploit Earth Observa
 ## Get started
 - [Rapid Action for Citizen with Earth Observation (**RACE**) platform](https://race.esa.int) 
 - [EuroDataCube](https://eurodatacube.com/)
+- [SentinelHub API](https://www.sentinel-hub.com/develop/api/)
+- [EOX EDC Jupyter-lab](https://edc-jupyter.hub.eox.at/)
 
 Let us know if you have tried any of the solutions presented, we'd love to hear about your use cases!
 
