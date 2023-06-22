@@ -4,7 +4,7 @@ This indicator uses the time series of Sentinel-1 Normalized Radar Backscatter o
 
 ## Input:
 The input parameters needed are:
-- **observation period** start and stop in YYYY-MM-DD format
+- **Observation period** start and stop in YYYY-MM-DD format
 - **Area of Interest** (AOI) in Well-Known Text (WKT) format
 
 The implemented algorithm will retrieve, using the SentinelHub Statistical API, the averaged terrain-flattened gamma0 VH over the defined AOI aggregated per day. Using gamma0 instead of the typical sigma0 allows us to aggregate the values from different orbits as it is geometry independent and corrected to remove its dependency on the incident angle and acquisition geometry.
