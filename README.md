@@ -1,11 +1,11 @@
-# eo_indicators
-scripts developed by RHEA Group to exploit Earth Observation data from EuroDataCube
+# Code for deriving Earth Observation indicators from Euro Data Cube data
+This repository contain scripts developed by RHEA Group to exploit Earth Observation data from EuroDataCube
 
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
 ## Get started
-[Rapid Action for Citizen with Earth Observation (RACE) platform] (https://race.esa.int) 
-[EuroDataCube](https://eurodatacube.com/)
+- [Rapid Action for Citizen with Earth Observation **RACE** platform] (https://race.esa.int) 
+- [EuroDataCube](https://eurodatacube.com/)
 
 Let us know if you have tried any of the solutions presented, we'd love to hear about your use cases!
 
