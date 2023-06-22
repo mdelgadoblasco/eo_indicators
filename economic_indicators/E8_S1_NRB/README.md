@@ -17,7 +17,8 @@ The steps that this algorithm follows are:
 More information about the **GAMMA0_TERRAIN** processing option available from Sentinelhub is available [here](https://docs.sentinel-hub.com/api/latest/data/sentinel-1-grd/#processing-options)
 
 
-## Output: An example of a possible plot of such variation could be: 
+## Output: 
+An example of a possible plot of such variation could be: 
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Requirements:
