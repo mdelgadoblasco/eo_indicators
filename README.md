@@ -4,8 +4,8 @@ This repository contain scripts developed by RHEA Group to exploit Earth Observa
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
 ## Indicators:
-1. [Economic Indicators](economic_indicators)
-   1.1. [E8 indicator](economic_indicators/E8_S1_NRB/)
+1. [Economic Indicators](economic_indicators):
+   - [E8 indicator](economic_indicators/E8_S1_NRB/)
 
 ## Get started
 - [Rapid Action for Citizen with Earth Observation (**RACE**) platform](https://race.esa.int) 
