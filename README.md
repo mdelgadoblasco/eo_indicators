@@ -1,7 +1,7 @@
 # eo_indicators
 scripts developed by RHEA Group to exploit Earth Observation data from EuroDataCube
 
-<p><center> <img src="images/race_logo.png" width="700"/> </p></center>
+<p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
 ## Get started
 [EuroDataCube](https://eurodatacube.com/)
