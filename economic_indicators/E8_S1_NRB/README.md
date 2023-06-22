@@ -18,7 +18,11 @@ More information about the **GAMMA0_TERRAIN** processing option available from S
 
 
 ## Output: 
-An example of a possible plot of such variation could be: 
+The current implementation provides as output a Comma Separated Values (CSV) file containing acquisition dates and averaged gamma0 values over the AOI.
+
+Additional customizations of this implementation could provide:
+- RACE-compatible formatted CSV
+- Static or interactive time series plot. An example of a possible plot of such variation could be: 
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Requirements:
