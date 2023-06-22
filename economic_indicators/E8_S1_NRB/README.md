@@ -1,13 +1,13 @@
 
 # Finished Goods Inventory indicator: 
-This indicator uses the time series of Sentinel-1 Normalized Radar Backscatter information averaged over the user-defined area of interest (AOI) to provide a time overview of the backscatter variations which can be directly linked to the occupancy of the monitored areas.
+This indicator uses the time series of Sentinel-1 Normalized Radar Backscatter of the VH polarization channel averaged over the user-defined area of interest (AOI) to provide a time overview of the backscatter variations which can be directly linked to the occupancy of the monitored areas.
 
 ## Input:
 The input parameters needed are:
 - **observation period** start and stop in YYYY-MM-DD format
 - **Area of Interest** (AOI) in Well-Known Text (WKT) format
 
-The implemented algorithm will retrieve, using the SentinelHub Statistical API, the averaged terrain-flattened gamma0 over the defined AOI aggregated per day. Using gamma0 instead of the typical sigma0 allows us to aggregate the values from different orbits as it is geometry independent and corrected to remove its dependency on the incident angle and acquisition geometry.
+The implemented algorithm will retrieve, using the SentinelHub Statistical API, the averaged terrain-flattened gamma0 VH over the defined AOI aggregated per day. Using gamma0 instead of the typical sigma0 allows us to aggregate the values from different orbits as it is geometry independent and corrected to remove its dependency on the incident angle and acquisition geometry.
 
 The steps that this algorithm follows are:
 1. Time series retrieval of the averaged gamma0 terrain flattened over the AOI
@@ -29,8 +29,7 @@ Additional customizations of this implementation could provide:
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Resources:
-- [Jupyter Notebook](code/E8_notebook.ipynb)
-- [helper functions](code/helpers.py)
+- [Jupyter Notebook](code/RACE_FinishedGoodsInventory_inidcator.ipynb)
 
 ## Requirements:
 - Processing resources: This algorithm is customized to run within the EDC EOX infrastructure using Jupyter-lab.
