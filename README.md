@@ -1,5 +1,5 @@
 # Deriving Earth Observation indicators from Euro Data Cube data
-This repository contain scripts developed by RHEA Group to exploit Earth Observation data from EuroDataCube
+This repository contains scripts developed by RHEA Group to exploit Earth Observation data from EuroDataCube
 
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
