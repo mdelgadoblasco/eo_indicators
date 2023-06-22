@@ -6,4 +6,4 @@ One example is the time series variability of the parking areas of Car Manufactu
 The **Finished Goods Inventory indicator** uses Sentinel-1 Normalized Radar Backscatter (gamma0 flattened) time information to provide the entire time series information (starting in January 2015) over a user-defined Area of Interest (AOI).
 
 An overview of the RACE platform overview showing the Finished Good Inventory information is available in the following image.
-<p><center> <img src="../images/RACE_FinishedGoodsInventory_view_20230623.png" width="700"/> </p></center>
+<p><center> <img src="../images/RACE_FinishedGoodsInventory_view_20230622.png" width="700"/> </p></center>
