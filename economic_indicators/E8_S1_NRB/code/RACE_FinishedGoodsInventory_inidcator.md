@@ -63,7 +63,6 @@ config = SHConfig()
 config.sh_client_id = sh_client_id
 config.sh_client_secret = sh_client_secret
 
-#OUTPUT_DIR = os.path.join(USR_PATH, "output") #local folder
 
 ```
 
@@ -89,7 +88,7 @@ aoi = "POLYGON ((3.754824 51.096633, \
 
 time_period= "2023-01-01/2023-05-31"
 
-OUTPUT_DIR = "/home/jovyan/PLES_WORKSPACE/Anca_E8/result-data/e8" # will be copied to the local folder of the user requesting the data
+OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of the user requesting the data
 
 ```
 
